@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "title": "The Moon Song (Film Version Excerpt)",
+    "film": "Her (2013, dir. Spike Jonze)",
+    "vocalist": "Scarlett Johansson (as Samantha)",
+    "composer": "Karen O & Spike Jonze",
+    "originalFile": "assets/moon-song.aac",
+    "browserFiles": [
+      "assets/moon-song.m4a",
+      "assets/moon-song.wav",
+      "assets/moon-song.mp3",
+      "assets/moon-song.aac"
+    ],
+    "sampleRate": 44100,
+    "channels": 2,
+    "decodedSamples": 4835328,
+    "exactDuration": 109.644626,
+    "ffprobeHeaderDuration": 109.235589,
+    "offsetSeconds": 0.0
+  },
+  "cues": [
+    {
+      "id": "cue-intro-1",
+      "start": 0.0,
+      "end": 14.0,
+      "type": "instrumental",
+      "label": "尤克里里轻柔前奏 I（午后微光与指尖拨弦）",
+      "description": "安静温暖的原声四弦琴分解和弦，建立亲密、轻盈而略带孤独的室内氛围"
+    },
+    {
+      "id": "cue-intro-breath",
+      "start": 14.0,
+      "end": 19.35,
+      "type": "breathing_pause",
+      "label": "换气、滑弦与0.75秒静默留白",
+      "description": "16.45s与18.10s出现清晰的指尖擦弦与轻浅呼吸声，18.60s–19.35s琴声短暂停顿，如同开口前的凝神注视"
+    },
+    {
+      "id": "cue-intro-2",
+      "start": 19.35,
+      "end": 23.7,
+      "type": "instrumental",
+      "label": "尤克里里前奏 II（主歌引子）",
+      "description": "19.40s重新拨响温暖和弦，铺垫人声入场"
+    },
+    {
+      "id": "cue-interlude-1",
+      "start": 31.25,
+      "end": 34.15,
+      "type": "interlude",
+      "label": "乐句间奏与轻换气 I",
+      "description": "第一句尾音moon自然衰减，伴随轻柔琴音过渡"
+    },
+    {
+      "id": "cue-interlude-2",
+      "start": 41.5,
+      "end": 44.0,
+      "type": "interlude",
+      "label": "乐句间奏与轻换气 II",
+      "description": "soon尾音收束，视线由室内转向窗外城市与暮色"
+    },
+    {
+      "id": "cue-interlude-3",
+      "start": 51.7,
+      "end": 53.95,
+      "type": "interlude",
+      "label": "乐句间奏 III",
+      "description": "place长音后的吉他连接和弦"
+    },
+    {
+      "id": "cue-interlude-mid",
+      "start": 68.3,
+      "end": 70.5,
+      "type": "interlude",
+      "label": "第一段尾音与中段过渡间奏",
+      "description": "away长音自65.20s延展至68.30s后渐弱，吉他过门进入第二主歌"
+    },
+    {
+      "id": "cue-interlude-4",
+      "start": 76.6,
+      "end": 78.7,
+      "type": "interlude",
+      "label": "乐句间奏 IV",
+      "description": "knew尾音后的吉他轻拨与换气"
+    },
+    {
+      "id": "cue-interlude-5",
+      "start": 85.75,
+      "end": 87.95,
+      "type": "interlude",
+      "label": "乐句间奏 V",
+      "description": "you尾音绵延后的宁静过渡"
+    },
+    {
+      "id": "cue-interlude-6",
+      "start": 94.9,
+      "end": 97.0,
+      "type": "interlude",
+      "label": "乐句间奏 VI（情绪收拢）",
+      "description": "place尾音落定，进入全曲最温暖亲密的收束乐句"
+    },
+    {
+      "id": "cue-outro",
+      "start": 108.35,
+      "end": 109.64,
+      "type": "outro",
+      "label": "尾音余韵与自然衰减",
+      "description": "away尾音与最后一记琴弦泛音在109.10s–109.64s间自然消散于月色"
+    }
+  ],
+  "lines": [
+    {
+      "id": 1,
+      "section": "Verse 1",
+      "start": 23.7,
+      "end": 31.25,
+      "en": "I'm lying on the moon",
+      "zh": "我正静静躺在月亮之上",
+      "note": "23.70s I'm 轻柔起音；moon 自 29.12s 起持续母音共振拉长至 31.25s",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 23.7,
+          "end": 24.48
+        },
+        {
+          "word": "lying",
+          "start": 24.48,
+          "end": 26.85
+        },
+        {
+          "word": "on",
+          "start": 26.85,
+          "end": 28.0
+        },
+        {
+          "word": "the",
+          "start": 28.0,
+          "end": 29.12
+        },
+        {
+          "word": "moon",
+          "start": 29.12,
+          "end": 31.25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Verse 1",
+      "start": 34.15,
+      "end": 41.5,
+      "en": "My dear, I'll be there soon",
+      "zh": "亲爱的，我很快就会来到你身旁",
+      "note": "dear 后有约 0.35s 极轻换气停顿；soon 尾音自 39.45s 绵延至 41.50s",
+      "words": [
+        {
+          "word": "My",
+          "start": 34.15,
+          "end": 34.68
+        },
+        {
+          "word": "dear,",
+          "start": 34.68,
+          "end": 36.25
+        },
+        {
+          "word": "I'll",
+          "start": 36.55,
+          "end": 37.0
+        },
+        {
+          "word": "be",
+          "start": 37.0,
+          "end": 38.25
+        },
+        {
+          "word": "there",
+          "start": 38.25,
+          "end": 39.45
+        },
+        {
+          "word": "soon",
+          "start": 39.45,
+          "end": 41.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Verse 1",
+      "start": 44.0,
+      "end": 51.7,
+      "en": "It's a quiet and starry place",
+      "zh": "那是一个静谧而繁星满布的地方",
+      "note": "44.00s It's 齿音清晰；place 在 49.55s–51.70s 持续并在末尾带轻柔 /s/ 收音",
+      "words": [
+        {
+          "word": "It's",
+          "start": 44.0,
+          "end": 44.58
+        },
+        {
+          "word": "a",
+          "start": 44.58,
+          "end": 45.45
+        },
+        {
+          "word": "quiet",
+          "start": 45.45,
+          "end": 47.2
+        },
+        {
+          "word": "and",
+          "start": 47.2,
+          "end": 47.56
+        },
+        {
+          "word": "starry",
+          "start": 47.56,
+          "end": 49.55
+        },
+        {
+          "word": "place",
+          "start": 49.55,
+          "end": 51.7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Verse 1",
+      "start": 53.95,
+      "end": 61.05,
+      "en": "Time's we're swallowed up, in space",
+      "zh": "时间与我们，都被温柔吞没在宇宙深处",
+      "note": "官方歌词常作 Time's we're swallowed up / Times we're swallowed up；up(58.75s) 后有短促气口，60.20s–61.05s 唱出 space 并紧接下一句",
+      "words": [
+        {
+          "word": "Time's",
+          "start": 53.95,
+          "end": 54.6
+        },
+        {
+          "word": "we're",
+          "start": 54.6,
+          "end": 55.85
+        },
+        {
+          "word": "swallowed",
+          "start": 55.85,
+          "end": 58.5
+        },
+        {
+          "word": "up,",
+          "start": 58.5,
+          "end": 59.65
+        },
+        {
+          "word": "in",
+          "start": 59.85,
+          "end": 60.2
+        },
+        {
+          "word": "space",
+          "start": 60.2,
+          "end": 61.05
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "Refrain 1",
+      "start": 61.2,
+      "end": 68.3,
+      "en": "We're here, a million miles away",
+      "zh": "我们就在这里，在一百万英里之外",
+      "note": "与上一句仅隔 0.15s 紧凑衔接；away 的长音自 65.10s 一直延续到 68.30s",
+      "words": [
+        {
+          "word": "We're",
+          "start": 61.2,
+          "end": 61.6
+        },
+        {
+          "word": "here,",
+          "start": 61.6,
+          "end": 62.55
+        },
+        {
+          "word": "a",
+          "start": 62.55,
+          "end": 62.9
+        },
+        {
+          "word": "million",
+          "start": 62.9,
+          "end": 64.05
+        },
+        {
+          "word": "miles",
+          "start": 64.05,
+          "end": 65.1
+        },
+        {
+          "word": "away",
+          "start": 65.1,
+          "end": 68.3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "Verse 2",
+      "start": 70.5,
+      "end": 76.6,
+      "en": "There's things I wish I knew",
+      "zh": "还有许多事，我多希望自己早已明了",
+      "note": "第二段主歌起始，70.50s There's 柔和进入，knew 持续至 76.60s",
+      "words": [
+        {
+          "word": "There's",
+          "start": 70.5,
+          "end": 71.25
+        },
+        {
+          "word": "things",
+          "start": 71.25,
+          "end": 72.45
+        },
+        {
+          "word": "I",
+          "start": 72.45,
+          "end": 73.6
+        },
+        {
+          "word": "wish",
+          "start": 73.6,
+          "end": 74.75
+        },
+        {
+          "word": "I",
+          "start": 74.75,
+          "end": 75.85
+        },
+        {
+          "word": "knew",
+          "start": 75.85,
+          "end": 76.6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "Verse 2",
+      "start": 78.7,
+      "end": 85.75,
+      "en": "There's no thing I'd keep from you",
+      "zh": "可面对你，我没有任何事想要隐瞒",
+      "note": "80.50s thing 与 82.10s keep 咬字清晰，you 长音自 84.20s 延伸至 85.75s",
+      "words": [
+        {
+          "word": "There's",
+          "start": 78.7,
+          "end": 79.3
+        },
+        {
+          "word": "no",
+          "start": 79.3,
+          "end": 80.5
+        },
+        {
+          "word": "thing",
+          "start": 80.5,
+          "end": 81.7
+        },
+        {
+          "word": "I'd",
+          "start": 81.7,
+          "end": 82.1
+        },
+        {
+          "word": "keep",
+          "start": 82.1,
+          "end": 82.9
+        },
+        {
+          "word": "from",
+          "start": 82.9,
+          "end": 84.2
+        },
+        {
+          "word": "you",
+          "start": 84.2,
+          "end": 85.75
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "Verse 2",
+      "start": 87.95,
+      "end": 94.9,
+      "en": "It's a dark and shiny place",
+      "zh": "那是一个幽暗却又闪耀着微光的地方",
+      "note": "dark(89.45s) 与 shiny(91.25s) 形成明暗对比；place 延续至 94.90s",
+      "words": [
+        {
+          "word": "It's",
+          "start": 87.95,
+          "end": 88.52
+        },
+        {
+          "word": "a",
+          "start": 88.52,
+          "end": 89.45
+        },
+        {
+          "word": "dark",
+          "start": 89.45,
+          "end": 90.95
+        },
+        {
+          "word": "and",
+          "start": 90.95,
+          "end": 91.25
+        },
+        {
+          "word": "shiny",
+          "start": 91.25,
+          "end": 93.35
+        },
+        {
+          "word": "place",
+          "start": 93.35,
+          "end": 94.9
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "Verse 2",
+      "start": 97.0,
+      "end": 103.1,
+      "en": "But with you, my dear, I'm safe",
+      "zh": "但只要和你在一起，亲爱的，我便无比安心",
+      "note": "Whisper 初识将气声尾音 safe 误标为 saying，经频谱核查 102.75s 处为 /f/ 摩擦音而非鼻音，已修正为 safe",
+      "words": [
+        {
+          "word": "But",
+          "start": 97.0,
+          "end": 97.45
+        },
+        {
+          "word": "with",
+          "start": 97.45,
+          "end": 98.2
+        },
+        {
+          "word": "you,",
+          "start": 98.2,
+          "end": 99.65
+        },
+        {
+          "word": "my",
+          "start": 99.65,
+          "end": 100.2
+        },
+        {
+          "word": "dear,",
+          "start": 100.2,
+          "end": 101.75
+        },
+        {
+          "word": "I'm",
+          "start": 101.75,
+          "end": 102.26
+        },
+        {
+          "word": "safe",
+          "start": 102.26,
+          "end": 103.1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "Refrain 2 / Outro",
+      "start": 103.3,
+      "end": 108.35,
+      "en": "And we're a million miles away",
+      "zh": "而我们相伴于此，在一百万英里之外",
+      "note": "103.30s 紧接前句唱出 And we're；away 自 106.40s 舒展拉长至 108.35s，随后吉他余音至 109.64s 结束",
+      "words": [
+        {
+          "word": "And",
+          "start": 103.3,
+          "end": 103.48
+        },
+        {
+          "word": "we're",
+          "start": 103.48,
+          "end": 104.25
+        },
+        {
+          "word": "a",
+          "start": 104.25,
+          "end": 104.58
+        },
+        {
+          "word": "million",
+          "start": 104.58,
+          "end": 105.5
+        },
+        {
+          "word": "miles",
+          "start": 105.5,
+          "end": 106.4
+        },
+        {
+          "word": "away",
+          "start": 106.4,
+          "end": 108.35
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "console_errors": [],
+  "page_errors": [],
+  "checks": [
+    {
+      "view": "desktop",
+      "api": {
+        "hasRender": true,
+        "hasSeek": true,
+        "duration": 109.644626,
+        "shots": 7,
+        "vocal": 0.162,
+        "pluck": 0,
+        "canvas": [
+          1920,
+          1080
+        ],
+        "lastT": 10,
+        "shotAt40": 2
+      }
+    },
+    {
+      "view": "mobile",
+      "api": {
+        "hasRender": true,
+        "hasSeek": true,
+        "duration": 109.644626,
+        "shots": 7,
+        "vocal": 0.162,
+        "pluck": 0,
+        "canvas": [
+          1920,
+          1080
+        ],
+        "lastT": 10,
+        "shotAt40": 2
+      }
+    }
+  ],
+  "previews": [
+    {
+      "file": "/workspace/moon-song-mv/qa/preview-01.png",
+      "t": 5.0,
+      "size": [
+        1280,
+        720
+      ],
+      "md5": "dcaaed608c86"
+    },
+    {
+      "file": "/workspace/moon-song-mv/qa/preview-02.png",
+      "t": 18.9,
+      "size": [
+        1280,
+        720
+      ],
+      "md5": "4fb7fd46abe3"
+    },
+    {
+      "file": "/workspace/moon-song-mv/qa/preview-03.png",
+      "t": 27.0,
+      "size": [
+        1280,
+        720
+      ],
+      "md5": "54db80b2ebcb"
+    },
+    {
+      "file": "/workspace/moon-song-mv/qa/preview-04.png",
+      "t": 40.0,
+      "size": [
+        1280,
+        720
+      ],
+      "md5": "cf9ecd41d80a"
+    },
+    {
+      "file": "/workspace/moon-song-mv/qa/preview-05.png",
+      "t": 58.0,
+      "size": [
+        1280,
+        720
+      ],
+      "md5": "ebef03ea8504"
+    },
+    {
+      "file": "/workspace/moon-song-mv/qa/preview-06.png",
+      "t": 78.0,
+      "size": [
+        1280,
+        720
+      ],
+      "md5": "3b261107c5a0"
+    },
+    {
+      "file": "/workspace/moon-song-mv/qa/preview-07.png",
+      "t": 91.0,
+      "size": [
+        1280,
+        720
+      ],
+      "md5": "e476c1436217"
+    },
+    {
+      "file": "/workspace/moon-song-mv/qa/preview-08.png",
+      "t": 104.0,
+      "size": [
+        1280,
+        720
+      ],
+      "md5": "1961b625dc50"
+    }
+  ],
+  "shot_at": [
+    {
+      "t": 5.0,
+      "shotIndex": 0
+    },
+    {
+      "t": 18.9,
+      "shotIndex": 0
+    },
+    {
+      "t": 27.0,
+      "shotIndex": 1
+    },
+    {
+      "t": 40.0,
+      "shotIndex": 2
+    },
+    {
+      "t": 58.0,
+      "shotIndex": 3
+    },
+    {
+      "t": 78.0,
+      "shotIndex": 4
+    },
+    {
+      "t": 91.0,
+      "shotIndex": 5
+    },
+    {
+      "t": 104.0,
+      "shotIndex": 6
+    }
+  ],
+  "console_error_count": 0,
+  "page_error_count": 0,
+  "unique": 8,
+  "desktop_mobile_ok": true,
+  "subtitle_modes_tested": [
+    "both",
+    "en",
+    "off"
+  ],
+  "scrub_markers_tested": true
+}

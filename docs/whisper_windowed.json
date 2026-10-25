@@ -1,0 +1,451 @@
+[
+  {
+    "window": [
+      0.0,
+      24.0
+    ],
+    "text": " \ud83c\udfb5 I...",
+    "words": [
+      {
+        "word": " \ud83c\udfb5",
+        "start": 0.0,
+        "end": 21.1
+      },
+      {
+        "word": " I...",
+        "start": 21.1,
+        "end": 23.98
+      }
+    ]
+  },
+  {
+    "window": [
+      22.0,
+      44.0
+    ],
+    "text": " I'm lying on the moon My dear, I'll be there soon",
+    "words": [
+      {
+        "word": " I'm",
+        "start": 22.0,
+        "end": 24.28
+      },
+      {
+        "word": " lying",
+        "start": 24.28,
+        "end": 25.68
+      },
+      {
+        "word": " on",
+        "start": 25.68,
+        "end": 27.38
+      },
+      {
+        "word": " the",
+        "start": 27.38,
+        "end": 29.08
+      },
+      {
+        "word": " moon",
+        "start": 29.08,
+        "end": 29.96
+      },
+      {
+        "word": " My",
+        "start": 29.96,
+        "end": 34.3
+      },
+      {
+        "word": " dear,",
+        "start": 34.3,
+        "end": 36.22
+      },
+      {
+        "word": " I'll",
+        "start": 36.22,
+        "end": 36.86
+      },
+      {
+        "word": " be",
+        "start": 36.86,
+        "end": 37.7
+      },
+      {
+        "word": " there",
+        "start": 37.7,
+        "end": 39.44
+      },
+      {
+        "word": " soon",
+        "start": 39.44,
+        "end": 40.28
+      }
+    ]
+  },
+  {
+    "window": [
+      42.0,
+      62.0
+    ],
+    "text": " It's a quiet and starry place, times where it's swallowed up, in space we're here.",
+    "words": [
+      {
+        "word": " It's",
+        "start": 42.0,
+        "end": 44.6
+      },
+      {
+        "word": " a",
+        "start": 44.6,
+        "end": 45.06
+      },
+      {
+        "word": " quiet",
+        "start": 45.06,
+        "end": 46.44
+      },
+      {
+        "word": " and",
+        "start": 46.44,
+        "end": 47.36
+      },
+      {
+        "word": " starry",
+        "start": 47.36,
+        "end": 49.52
+      },
+      {
+        "word": " place,",
+        "start": 49.52,
+        "end": 54.02
+      },
+      {
+        "word": " times",
+        "start": 54.02,
+        "end": 54.38
+      },
+      {
+        "word": " where",
+        "start": 54.38,
+        "end": 55.06
+      },
+      {
+        "word": " it's",
+        "start": 55.06,
+        "end": 56.08
+      },
+      {
+        "word": " swallowed",
+        "start": 56.08,
+        "end": 57.52
+      },
+      {
+        "word": " up,",
+        "start": 57.52,
+        "end": 59.06
+      },
+      {
+        "word": " in",
+        "start": 59.06,
+        "end": 59.92
+      },
+      {
+        "word": " space",
+        "start": 59.92,
+        "end": 60.56
+      },
+      {
+        "word": " we're",
+        "start": 60.56,
+        "end": 61.48
+      },
+      {
+        "word": " here.",
+        "start": 61.48,
+        "end": 61.98
+      }
+    ]
+  },
+  {
+    "window": [
+      52.0,
+      74.0
+    ],
+    "text": " Times were swallowed up In space we're here a million miles away There's things I wish",
+    "words": [
+      {
+        "word": " Times",
+        "start": 52.0,
+        "end": 54.5
+      },
+      {
+        "word": " were",
+        "start": 54.5,
+        "end": 55.0
+      },
+      {
+        "word": " swallowed",
+        "start": 55.0,
+        "end": 57.34
+      },
+      {
+        "word": " up",
+        "start": 57.34,
+        "end": 58.48
+      },
+      {
+        "word": " In",
+        "start": 59.44,
+        "end": 59.92
+      },
+      {
+        "word": " space",
+        "start": 59.92,
+        "end": 60.62
+      },
+      {
+        "word": " we're",
+        "start": 60.62,
+        "end": 61.52
+      },
+      {
+        "word": " here",
+        "start": 61.52,
+        "end": 62.14
+      },
+      {
+        "word": " a",
+        "start": 62.14,
+        "end": 62.72
+      },
+      {
+        "word": " million",
+        "start": 62.72,
+        "end": 63.48
+      },
+      {
+        "word": " miles",
+        "start": 63.48,
+        "end": 64.5
+      },
+      {
+        "word": " away",
+        "start": 64.5,
+        "end": 65.74
+      },
+      {
+        "word": " There's",
+        "start": 66.7,
+        "end": 70.64
+      },
+      {
+        "word": " things",
+        "start": 70.64,
+        "end": 71.84
+      },
+      {
+        "word": " I",
+        "start": 71.84,
+        "end": 72.82
+      },
+      {
+        "word": " wish",
+        "start": 72.82,
+        "end": 73.66
+      }
+    ]
+  },
+  {
+    "window": [
+      69.0,
+      90.0
+    ],
+    "text": " There's things I wish I knew There's no thing I'd keep from you It's a thought",
+    "words": [
+      {
+        "word": " There's",
+        "start": 69.0,
+        "end": 70.64
+      },
+      {
+        "word": " things",
+        "start": 70.64,
+        "end": 71.76
+      },
+      {
+        "word": " I",
+        "start": 71.76,
+        "end": 72.8
+      },
+      {
+        "word": " wish",
+        "start": 72.8,
+        "end": 73.5
+      },
+      {
+        "word": " I",
+        "start": 73.5,
+        "end": 74.96
+      },
+      {
+        "word": " knew",
+        "start": 74.96,
+        "end": 75.66
+      },
+      {
+        "word": " There's",
+        "start": 75.66,
+        "end": 79.16
+      },
+      {
+        "word": " no",
+        "start": 79.16,
+        "end": 79.6
+      },
+      {
+        "word": " thing",
+        "start": 79.6,
+        "end": 81.0
+      },
+      {
+        "word": " I'd",
+        "start": 81.0,
+        "end": 82.0
+      },
+      {
+        "word": " keep",
+        "start": 82.0,
+        "end": 82.66
+      },
+      {
+        "word": " from",
+        "start": 82.66,
+        "end": 84.18
+      },
+      {
+        "word": " you",
+        "start": 84.18,
+        "end": 84.86
+      },
+      {
+        "word": " It's",
+        "start": 86.86,
+        "end": 88.64
+      },
+      {
+        "word": " a",
+        "start": 88.64,
+        "end": 88.92
+      },
+      {
+        "word": " thought",
+        "start": 88.92,
+        "end": 89.98
+      }
+    ]
+  },
+  {
+    "window": [
+      85.0,
+      109.64
+    ],
+    "text": " It's a dark and shiny place, but with you, my dear, I'm safe and we're a million miles away.",
+    "words": [
+      {
+        "word": " It's",
+        "start": 85.0,
+        "end": 88.56
+      },
+      {
+        "word": " a",
+        "start": 88.56,
+        "end": 88.86
+      },
+      {
+        "word": " dark",
+        "start": 88.86,
+        "end": 90.48
+      },
+      {
+        "word": " and",
+        "start": 90.48,
+        "end": 91.0
+      },
+      {
+        "word": " shiny",
+        "start": 91.0,
+        "end": 92.1
+      },
+      {
+        "word": " place,",
+        "start": 92.1,
+        "end": 95.04
+      },
+      {
+        "word": " but",
+        "start": 95.04,
+        "end": 97.24
+      },
+      {
+        "word": " with",
+        "start": 97.24,
+        "end": 97.84
+      },
+      {
+        "word": " you,",
+        "start": 97.84,
+        "end": 99.4
+      },
+      {
+        "word": " my",
+        "start": 99.4,
+        "end": 99.96
+      },
+      {
+        "word": " dear,",
+        "start": 99.96,
+        "end": 101.44
+      },
+      {
+        "word": " I'm",
+        "start": 101.44,
+        "end": 102.28
+      },
+      {
+        "word": " safe",
+        "start": 102.28,
+        "end": 102.76
+      },
+      {
+        "word": " and",
+        "start": 102.76,
+        "end": 103.22
+      },
+      {
+        "word": " we're",
+        "start": 103.22,
+        "end": 103.92
+      },
+      {
+        "word": " a",
+        "start": 103.92,
+        "end": 104.36
+      },
+      {
+        "word": " million",
+        "start": 104.36,
+        "end": 105.06
+      },
+      {
+        "word": " miles",
+        "start": 105.06,
+        "end": 106.08
+      },
+      {
+        "word": " away.",
+        "start": 106.08,
+        "end": 109.34
+      }
+    ]
+  }
+]

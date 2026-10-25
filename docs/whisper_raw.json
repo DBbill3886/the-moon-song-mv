@@ -1,0 +1,348 @@
+{
+  "text": " I'm lying on the moon My dear, I'll be there soon It's a quiet and starry place It's a quiet and starry place Times were thing I'd keep from you It's a dark and shiny place But with you, my dear, I'm safe and we're a million miles away",
+  "chunks": [
+    {
+      "text": " I'm",
+      "timestamp": [
+        0.0,
+        24.24
+      ]
+    },
+    {
+      "text": " lying",
+      "timestamp": [
+        24.24,
+        25.4
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        25.56,
+        27.42
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        27.42,
+        29.12
+      ]
+    },
+    {
+      "text": " moon",
+      "timestamp": [
+        29.12,
+        29.96
+      ]
+    },
+    {
+      "text": " My",
+      "timestamp": [
+        29.96,
+        34.3
+      ]
+    },
+    {
+      "text": " dear,",
+      "timestamp": [
+        34.3,
+        36.22
+      ]
+    },
+    {
+      "text": " I'll",
+      "timestamp": [
+        36.22,
+        36.86
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        36.86,
+        37.62
+      ]
+    },
+    {
+      "text": " there",
+      "timestamp": [
+        37.62,
+        39.44
+      ]
+    },
+    {
+      "text": " soon",
+      "timestamp": [
+        39.44,
+        40.36
+      ]
+    },
+    {
+      "text": " It's",
+      "timestamp": [
+        42.0,
+        44.56
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        44.56,
+        45.08
+      ]
+    },
+    {
+      "text": " quiet",
+      "timestamp": [
+        45.08,
+        46.4
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        46.4,
+        47.48
+      ]
+    },
+    {
+      "text": " starry",
+      "timestamp": [
+        47.48,
+        49.52
+      ]
+    },
+    {
+      "text": " place",
+      "timestamp": [
+        49.52,
+        49.98
+      ]
+    },
+    {
+      "text": " It's",
+      "timestamp": [
+        40.0,
+        44.6
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        44.6,
+        45.0
+      ]
+    },
+    {
+      "text": " quiet",
+      "timestamp": [
+        45.0,
+        46.38
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        46.38,
+        47.26
+      ]
+    },
+    {
+      "text": " starry",
+      "timestamp": [
+        47.26,
+        49.5
+      ]
+    },
+    {
+      "text": " place",
+      "timestamp": [
+        49.5,
+        50.8
+      ]
+    },
+    {
+      "text": " Times",
+      "timestamp": [
+        50.8,
+        54.46
+      ]
+    },
+    {
+      "text": " were",
+      "timestamp": [
+        54.46,
+        55.04
+      ]
+    },
+    {
+      "text": " thing",
+      "timestamp": [
+        79.62,
+        81.0
+      ]
+    },
+    {
+      "text": " I'd",
+      "timestamp": [
+        81.0,
+        82.0
+      ]
+    },
+    {
+      "text": " keep",
+      "timestamp": [
+        82.0,
+        82.78
+      ]
+    },
+    {
+      "text": " from",
+      "timestamp": [
+        82.78,
+        84.18
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        84.18,
+        84.9
+      ]
+    },
+    {
+      "text": " It's",
+      "timestamp": [
+        87.02,
+        88.6
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        88.6,
+        88.9
+      ]
+    },
+    {
+      "text": " dark",
+      "timestamp": [
+        88.9,
+        90.14
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        90.14,
+        91.0
+      ]
+    },
+    {
+      "text": " shiny",
+      "timestamp": [
+        91.0,
+        92.04
+      ]
+    },
+    {
+      "text": " place",
+      "timestamp": [
+        92.04,
+        93.84
+      ]
+    },
+    {
+      "text": " But",
+      "timestamp": [
+        96.0,
+        97.3
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        97.3,
+        97.9
+      ]
+    },
+    {
+      "text": " you,",
+      "timestamp": [
+        97.9,
+        99.28
+      ]
+    },
+    {
+      "text": " my",
+      "timestamp": [
+        99.28,
+        99.96
+      ]
+    },
+    {
+      "text": " dear,",
+      "timestamp": [
+        99.96,
+        101.32
+      ]
+    },
+    {
+      "text": " I'm",
+      "timestamp": [
+        101.68,
+        102.4
+      ]
+    },
+    {
+      "text": " safe",
+      "timestamp": [
+        102.4,
+        102.74
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        102.74,
+        103.26
+      ]
+    },
+    {
+      "text": " we're",
+      "timestamp": [
+        103.26,
+        103.92
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        103.92,
+        104.48
+      ]
+    },
+    {
+      "text": " million",
+      "timestamp": [
+        104.48,
+        104.94
+      ]
+    },
+    {
+      "text": " miles",
+      "timestamp": [
+        104.94,
+        106.04
+      ]
+    },
+    {
+      "text": " away",
+      "timestamp": [
+        106.04,
+        107.18
+      ]
+    }
+  ]
+}
